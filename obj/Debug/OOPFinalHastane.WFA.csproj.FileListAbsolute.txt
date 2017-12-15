@@ -1,0 +1,40 @@
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\bin\Debug\OOPFinalHastane.WFA.exe.config
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\bin\Debug\OOPFinalHastane.WFA.exe
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\bin\Debug\OOPFinalHastane.WFA.pdb
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\bin\Debug\OOPFinalHastane.Entity.dll
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\bin\Debug\OOPFinalHastane.Entity.pdb
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.BaseForms.BaseForm.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.BaseForms.EkleBaseForm.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.BaseForms.ListeleBaseForm.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.DoktorForms.FormDoktorEkle.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.DoktorForms.FormDoktorListele.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.Form1.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.HastaForms.FormHastaEkle.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.HastaForms.FormHastaListele.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.HemsireForms.FormHemsireEkle.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.HemsireForms.FormHemsireListele.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.Properties.Resources.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.RandevuForms.FormRandevuEkle.resources
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.csproj.GenerateResource.Cache
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.exe
+C:\Users\wissen\Desktop\CSharpFund502S\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.pdb
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.BaseForms.BaseForm.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.BaseForms.EkleBaseForm.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.BaseForms.ListeleBaseForm.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.DoktorForms.FormDoktorEkle.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.DoktorForms.FormDoktorListele.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.Form1.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.HastaForms.FormHastaEkle.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.HastaForms.FormHastaListele.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.HemsireForms.FormHemsireEkle.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.HemsireForms.FormHemsireListele.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.Properties.Resources.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.RandevuForms.FormRandevuEkle.resources
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.csproj.GenerateResource.Cache
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.exe
+D:\Visual Studio Project\OOPFinalHastane.WFA\obj\Debug\OOPFinalHastane.WFA.pdb
